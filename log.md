@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 4: September 5, 2016
+**Today's Progress:** I updated the random quote generator.  Swapped the Chuck Norris quote api for a more [generic api](https://market.mashape.com/andruxnet/random-famous-quotes).
+
+**Thoughts:** 
+
+**Links to work:** [Random Quote Generator](http://codepen.io/townsean/full/jrEyPj/)
+
 ### Day 3: September 4, 2016
 **Today's Progress:** I completed building a random quote generator.  This is another Free Code Camp Exercise.  I'm using the [Chuck Norris random quote API](http://www.icndb.com/api/). 
 
