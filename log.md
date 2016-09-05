@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 4: September 5, 2016
-**Today's Progress:** I updated the random quote generator.  Swapped the Chuck Norris quote api for a more [generic api](https://market.mashape.com/andruxnet/random-famous-quotes).
+**Today's Progress:** I updated the random quote generator.  I swapped the Chuck Norris quote api for a more [generic api](https://market.mashape.com/andruxnet/random-famous-quotes).
 
 **Thoughts:** 
 
