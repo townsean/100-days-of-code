@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 3: September 4, 2016
-**Today's Progress:** I started building a random quote generator.  This is another Free Code Camp Exercise.  I'm using the [Chuck Norris random quote API](http://www.icndb.com/api/). 
+**Today's Progress:** I completed building a random quote generator.  This is another Free Code Camp Exercise.  I'm using the [Chuck Norris random quote API](http://www.icndb.com/api/). 
 
 **Thoughts:** Yes, bad Ashley for starting a new project before completing an existing one. 
 
