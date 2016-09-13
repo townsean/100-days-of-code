@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Taking a break
+I am putting a pause to my 100 days of code challenge.  I have a lot going on outside my hobby of programming.  I hope to resume this challenge once things settle down.
+
 ### Day 4: September 5, 2016
 **Today's Progress:** I updated the random quote generator.  I swapped the Chuck Norris quote api for a more [generic api](https://market.mashape.com/andruxnet/random-famous-quotes). I also modified a sketch file for my Creation Crate Month 5 project.
 
